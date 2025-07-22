@@ -4,6 +4,7 @@
 
 ### 🎬 Demo en video
 ![Demo de la app](assets/videos/demostracion.mp4)
+Ingresa para que se te descague, y lo puedas ver.
 
 ### 📱 Screenshots
 ![Pantalla Principal](assets/img/pantalla-principal.png)
